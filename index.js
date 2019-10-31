@@ -28,7 +28,7 @@ unleashDog = function(dogName, dogBreed) {
   return `Unleash ${dogName} the ${dogBreed}`
 }
 
-const routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDog]
+const routine = [wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog]
 
 
  function exerciseDog(dogName,dogBreed) {
