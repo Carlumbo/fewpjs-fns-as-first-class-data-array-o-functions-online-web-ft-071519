@@ -18,7 +18,7 @@ function walkHome(dogName, dogBreed) {
   console.log(`Walk home with ${dogName} the #{dogBreed}`)
 }
 
-function unleashDog(dogName, dogBreed) {
+let unleashDog = function(dogName, dogBreed) {
   console.log(`Unleash ${dogName} the #{dogBreed}`)
 }
 
